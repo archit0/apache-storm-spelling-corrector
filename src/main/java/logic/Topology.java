@@ -1,10 +1,9 @@
-package spout;
+package logic;
 
 import index.Searching;
 import org.apache.storm.Config;
 import org.apache.storm.LocalCluster;
 import org.apache.storm.topology.TopologyBuilder;
-import org.apache.storm.tuple.Fields;
 
 /**
  * Created by archit on 29/1/17.

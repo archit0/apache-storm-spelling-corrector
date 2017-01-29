@@ -1,4 +1,4 @@
-package spout;
+package logic;
 
 import org.apache.storm.spout.SpoutOutputCollector;
 import org.apache.storm.task.TopologyContext;
@@ -6,7 +6,7 @@ import org.apache.storm.topology.IRichSpout;
 import org.apache.storm.topology.OutputFieldsDeclarer;
 import org.apache.storm.tuple.Fields;
 import org.apache.storm.tuple.Values;
-import spout.model.Sentence;
+import logic.model.Sentence;
 
 import java.util.Map;
 

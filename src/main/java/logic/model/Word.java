@@ -1,4 +1,4 @@
-package spout.model;
+package logic.model;
 
 /**
  * Created by archit on 29/1/17.

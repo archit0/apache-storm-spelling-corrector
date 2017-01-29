@@ -1,4 +1,4 @@
-package spout;
+package logic;
 
 import index.Searching;
 import org.apache.storm.task.OutputCollector;
@@ -8,7 +8,7 @@ import org.apache.storm.topology.OutputFieldsDeclarer;
 import org.apache.storm.tuple.Fields;
 import org.apache.storm.tuple.Tuple;
 import org.apache.storm.tuple.Values;
-import spout.model.Word;
+import logic.model.Word;
 
 import java.util.Map;
 
